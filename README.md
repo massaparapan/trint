@@ -1,1 +1,3 @@
-# impresion-trinidad
+# Trint
+
+Sistema de impresión escolar mobile-first.
